@@ -1,0 +1,21 @@
+body {
+  background-color:#cccccc;
+}
+h1{
+  text-align:center;
+  color:red;
+}
+h3{
+  text-align:center;
+  color:Green;
+}
+legend{
+  color:brown
+}
+table, th, td {
+  border:1px solid black;
+}
+
+#submit{
+ text-align:center;
+}
